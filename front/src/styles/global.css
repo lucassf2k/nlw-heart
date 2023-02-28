@@ -1,0 +1,19 @@
+:root {
+  --text-color: #e1e1e6;
+  --bg-color: #121214;
+
+  font-size: 62.5%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  color: var(--text-color);
+  background: var(--bg-color);
+  font-size: 1.6rem;
+}
